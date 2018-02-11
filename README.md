@@ -1,7 +1,7 @@
 # Linux-server-configuration
 Information about configuration changes made for linux server to deploy a flask application.
 
-### To connect via SSH
+## To connect via SSH
 IP address: 34.210.97.152\
 Port: 2200\
 `ssh -i PRIVATE_KEY grader@34.210.97.152 -p 2200`
